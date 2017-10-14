@@ -1,0 +1,16 @@
+{
+  "name": "gitbook-plugin-nunjucks",
+  "version": "0.0.1",
+  "description": "A GitBook plugin to use nunjucks filters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "dependencies": {
+    "nunjucks": "^3.0.1"
+  }
+}
